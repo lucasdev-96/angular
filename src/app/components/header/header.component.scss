@@ -1,0 +1,33 @@
+.header {
+    padding: 10px;
+    box-shadow: 0px 3px 0px 0px rgba(68, 67, 67, 0.493);
+    display: flex;
+    align-items: center;
+    position: fixed 0;
+    background-color: rgba(224, 222, 222, 0.493);
+ 
+}
+
+.header img {
+    max-height: 32px;
+}
+
+
+.header a {
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+}
+
+.title-group {
+    padding-left: 20px;
+    display: flex;
+
+}
+
+
+.title-group > a > i {
+    padding-right: 5px;
+
+}
+
